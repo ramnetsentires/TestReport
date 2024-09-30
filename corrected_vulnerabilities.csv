@@ -1,0 +1,11 @@
+#,Vulnerability,Severity,Impact,Vendor,Product,Can Lead To Ransomware,Top Source Countries
+1,CVE-2023-20198,Critical,Code/command Injection and Execution,Cisco,Cisco IOS XE,No,United States
+2,CVE-2017-9841,Critical,Code/command Injection and Execution,PHPUnit - Sebastian Bergmann,PHPUnit,No,United States
+3,CVE-2021-42013,Critical,Code/command Injection and Execution,Apache,Apache HTTP Server,Yes,China
+4,CVE-2022-41082,High,Code/command Injection and Execution,Microsoft,Exchange,Yes,United States
+5,CVE-2022-37042,Critical,Code/command Injection and Execution,Synacor,Zimbra Collaboration Suite,No,United States
+6,CVE-2023-22515,Critical,Code/command Injection and Execution,Atlassian,Confluence,Yes,Germany
+7,CVE-2023-42793,Critical,Code/command Injection and Execution,JetBrains,TeamCity,Yes,Germany
+8,CVE-2019-1653,High,Sensitive Information Disclosure,Cisco,Cisco RV320/RV325,No,Netherlands
+9,CVE-2022-26134,Critical,Code/command Injection and Execution,Atlassian,Confluence,Yes,Germany
+10,CVE-2021-44228,Critical,Code/command Injection and Execution,Apache,Log4j,Yes,Germany
